@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SteamOverlay", "SteamOverlay\SteamOverlay.vcxproj", "{B8865822-3E66-4C0A-85DF-8AAE06AD6B19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8865822-3E66-4C0A-85DF-8AAE06AD6B19}.Debug|x64.ActiveCfg = Debug|x64
+		{B8865822-3E66-4C0A-85DF-8AAE06AD6B19}.Debug|x64.Build.0 = Debug|x64
+		{B8865822-3E66-4C0A-85DF-8AAE06AD6B19}.Debug|x86.ActiveCfg = Debug|Win32
+		{B8865822-3E66-4C0A-85DF-8AAE06AD6B19}.Debug|x86.Build.0 = Debug|Win32
+		{B8865822-3E66-4C0A-85DF-8AAE06AD6B19}.Release|x64.ActiveCfg = Release|x64
+		{B8865822-3E66-4C0A-85DF-8AAE06AD6B19}.Release|x64.Build.0 = Release|x64
+		{B8865822-3E66-4C0A-85DF-8AAE06AD6B19}.Release|x86.ActiveCfg = Release|Win32
+		{B8865822-3E66-4C0A-85DF-8AAE06AD6B19}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A06D5215-165C-4A2C-B781-E8AC5BFF843C}
+	EndGlobalSection
+EndGlobal
